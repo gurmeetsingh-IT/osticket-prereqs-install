@@ -44,3 +44,9 @@ These are the required components needed to install and run the osTicket system.
 <br />
 
 <p>
+<img src="https://i.imgur.com/LBNQUZI.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now that everything is installed, we can begin using the osTicket system. This includes creating and managing support tickets from both the customer and IT help desk perspectives. The lab also demonstrates how to handle different support scenarios, communicate effectively with customers, and work through the ticket resolution process.
+</p>
+<br />
