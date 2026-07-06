@@ -19,10 +19,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Setup a Virtual Machine in Azure
-- Install the osTicket Requirements
-- Install osTicket itself
-- Do the after-installation configuration of osTicket
-- Explore osTicket as a Help Desk Professional (Create, Interact, and close Tickets
+- Set up a virtual computer in Microsoft Azure.
+- Installed the software and tools needed to run the help desk system.
+- Installed and configured the osTicket help desk application.
+- Completed the initial setup and configuration to prepare the help desk system for use.
+- Practiced using the help desk system by creating, managing, updating, and closing support tickets.
 
 <h2>Installation Steps</h2>
