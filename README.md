@@ -26,3 +26,21 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Practiced using the help desk system by creating, managing, updating, and closing support tickets.
 
 <h2>Installation Steps</h2>
+
+<p>
+<img width="1912" height="857" alt="image" src="https://github.com/user-attachments/assets/569a3a31-787a-4dae-b8cd-707ff904a032" />
+</p>
+<p>
+After creating the virtual machine, we logged in and installed the required software to set up the osTicket help desk system. This lab provided hands-on experience creating and managing support tickets from the perspectives of an administrator, IT help desk technician, and customer, while learning the complete ticket process from creation to resolution.
+</p>
+<br />
+
+</p>
+<img width="1647" height="952" alt="image" src="https://github.com/user-attachments/assets/fa6a9853-10db-4ae7-a094-9c9f9454ad44" />
+</p>
+<p>
+These are the required components needed to install and run the osTicket system. Once installed, we can configure the help desk platform and gain hands-on experience creating, managing, and resolving support tickets from the perspectives of an administrator, IT help desk technician, and customer.
+</p>
+<br />
+
+<p>
